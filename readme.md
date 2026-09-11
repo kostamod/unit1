@@ -1,1 +1,1 @@
-#заголовок master
+заголовок из feature-conflict
